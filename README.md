@@ -1,5 +1,5 @@
 <!-- Proyect Logo -->
-<div text-align: center;>
+<div align= "center">
     <a href='https://nexus-89i.netlify.app'>
     <img src='./img/nexus-logo_720.png' alt='Nexus' width='300' />
     </a>
